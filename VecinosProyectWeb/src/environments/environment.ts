@@ -3,7 +3,15 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  apiKey: "AIzaSyBGGTnFO0SQrsT6gPeCF36XtTHwAMuUodU",
+    authDomain: "vecinosapp-7d531.firebaseapp.com",
+    databaseURL: "https://vecinosapp-7d531-default-rtdb.firebaseio.com",
+    projectId: "vecinosapp-7d531",
+    storageBucket: "vecinosapp-7d531.appspot.com",
+    messagingSenderId: "468066183919",
+    appId: "1:468066183919:web:775062718745fd15d6c91a",
+    measurementId: "G-LBNK9EYFYC"
 };
 
 /*
